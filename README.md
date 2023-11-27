@@ -1,4 +1,4 @@
-## Sobre o teste
+## Sobre o teste WEB
 
 O objetivo é criar testes para realizar compras no site e deleta conta.
 
